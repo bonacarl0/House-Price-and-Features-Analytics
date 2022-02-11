@@ -13,6 +13,7 @@ Normality tests were done on features so that a correct cross-correlation method
 Features are being analysed on their correlation to labels
 # Results
 ![download](https://user-images.githubusercontent.com/87014423/153639940-c72790b6-3d5e-4684-aef2-3c5978674a37.png)
+
 Above is the visualization of the feature house value with median income.
 Turns out the feature that has the strongest correlation with the label is house value.
 
