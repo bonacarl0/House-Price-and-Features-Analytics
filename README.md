@@ -7,7 +7,7 @@ Data is solely taken from: https://www.kaggle.com/camnugent/california-housing-p
 There are some goals that the author wants to achieve in this research;
 one of them is to apply a python data analytics methods to this dataset, collecting informations from the columns, to practice statistic method to the dataset and lastly to draw some useful conclusion from it.
 # Pre-Analysis
-Data manipulations were done such as removing outliers from features
+Feature manipulation methods were done such as extracting outliers in the features
 # Analysis
 Normality tests were done on features so that a correct cross-correlation method can be done to the feature to gain a wise decision.
 Features are being analysed on their correlation to labels
